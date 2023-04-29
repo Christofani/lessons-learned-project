@@ -1,58 +1,56 @@
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 
 #cabecalho {
-    position: fixed;
-    top: 0;
-    background-color: rgb(45, 216, 45);
-    width: 100%;
-    text-align: center;
-    padding: 10px;
+  position: fixed;
+  top: 0;
+  background-color: rgb(45, 216, 45);
+  width: 100%;
+  text-align: center;
+  padding: 10px;
 }
 
 
 #minha_foto {
-    width: 300px;
-    margin-top: 120px;
-    padding: 5px;
-    border: 2px solid black;
+  width: 300px;
+  margin-top: 120px;
+  padding: 5px;
+  border: 2px solid black;
 }
 
 
 #rodape {
-    margin-top: 10px;
-    text-align: center;
-    font-size: 30px;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 30px;
 }
 
 
 #tabela th {
-    border: 1px solid black;
+  border: 1px solid black;
 }
 
 
 #meu-aprendizado {
-    font-family: monospace;
-    color: rgb(93, 12, 160);
-    line-height: 20px;
-    font-size: 15px;
-    width: 50%;
+  font-family: monospace;
+  color: rgb(93, 12, 160);
+  line-height: 20px;
+  font-size: 15px;
+  width: 50%;
 }
+
 
 .lado-direito {
-    display: inline-block;
-    font-size: 20px;
-    padding: 20px; 
-    bottom: 175px;
-    position: relative;
-    
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px; 
+  bottom: 175px;
+  position: relative;   
 }
+
+
 .lado-esquerdo {
-    display: inline-block;
+  display: inline-block;
 }
-
-
-
-
